@@ -2,19 +2,19 @@
 
 This is our work on Number Plates Recognition in Unconstrained Condition presented at Mosaic'21 round 2. The problem statement was "RAPID AI vision". By unconstrained what we mean is:
 
-![sample](images/capture.PNG)
+![sample](https://github.com/Bellicose-YB/Number-Plates-Recognition-in-Unconstrained-Condition/blob/main/Images/capture.PNG)
 
 ## Major Subdivisions in our Approach:
 * Number Plate Detection from image of car
 * Perspective Transform
 * segmentation.
 * Prediction
-![sample](images/profile2.JPG)
+![sample](https://github.com/Bellicose-YB/Number-Plates-Recognition-in-Unconstrained-Condition/blob/main/Images/profile2.JPG)
 
 
 ## WORKFLOW:
 
-* ![Markdown Logo](images/Professional_profile.JPG)
+* ![Markdown Logo](https://github.com/Bellicose-YB/Number-Plates-Recognition-in-Unconstrained-Condition/blob/main/Images/Professional_profile.JPG)
 
 ## Prediction of Segmented Letters:
 
