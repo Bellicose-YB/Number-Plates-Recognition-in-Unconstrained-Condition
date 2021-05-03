@@ -2,7 +2,7 @@
 
 This is our work on Number Plates Recognition in Unconstrained Condition presented at Mosaic'21 round 2. The problem statement was "RAPID AI vision". By unconstrained what we mean is:
 
-![sample](https://github.com/Bellicose-YB/Number-Plates-Recognition-in-Unconstrained-Condition/blob/main/Images/capture.PNG)
+![sample](https://github.com/Bellicose-YB/Number-Plates-Recognition-in-Unconstrained-Condition/blob/main/Images/Capture.PNG)
 
 ## Major Subdivisions in our Approach:
 * Number Plate Detection from image of car
