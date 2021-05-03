@@ -9,12 +9,12 @@ This is our work on Number Plates Recognition in Unconstrained Condition present
 * Perspective Transform
 * segmentation.
 * Prediction
-![sample](https://github.com/Bellicose-YB/Number-Plates-Recognition-in-Unconstrained-Condition/blob/main/Images/profile2.JPG)
+![sample](https://github.com/Bellicose-YB/Number-Plates-Recognition-in-Unconstrained-Condition/blob/main/Images/profile2.jpg)
 
 
 ## WORKFLOW:
 
-* ![Markdown Logo](https://github.com/Bellicose-YB/Number-Plates-Recognition-in-Unconstrained-Condition/blob/main/Images/Professional_profile.JPG)
+* ![Markdown Logo](https://github.com/Bellicose-YB/Number-Plates-Recognition-in-Unconstrained-Condition/blob/main/Images/Professional_profile.jpg)
 
 ## Prediction of Segmented Letters:
 
